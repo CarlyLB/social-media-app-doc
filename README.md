@@ -21,7 +21,7 @@ The following diagram shows a bird view of the architecture:
 
 ![Alt text](/img/BigPicture.jpg?raw=true "Architectural Overview")
 
-Social media data is injested via [Synthesio](http://www.synthesio.com/).
+Social media data is ingested via [Synthesio](http://www.synthesio.com/).
 We use Twitter, but Synthesio can easily incorporate various other sources like Facebook as well.
 If customer data is needed, we can also feed it via other on-premise systems like 
 [Neteeza](https://www-01.ibm.com/software/data/netezza/).
@@ -30,7 +30,7 @@ Social media and customer data is fed into a [Node-RED](https://nodered.org/) wo
 is hosted on Bluemix. It cleans, normalises, and alayses the data. Node-RED allows for
 data processing with minimum or no coding. It is suitable for quick evaluation of new ideas
 and prototyping. Node-RED integrates well with many Watson services. In this app, we use 
-the Watson services for tone, sentiment, and keyword extraction and analysis. Once the injested
+the Watson services for tone, sentiment, and keyword extraction and analysis. Once the ingested
 data is processed, the Node-RED flow stores it in a Cloudant database. 
 
 A [Node.JS](https://nodejs.org/en/)/[Express](https://expressjs.com/) 
