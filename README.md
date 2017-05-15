@@ -4,8 +4,8 @@
 - [Architecture](#architecture)
 
 
-<div id='introduction'/>
 # Introduction
+<div id='introduction'/>
 
 The [Social Media Explorer](http://social-ui.au-syd.mybluemix.net) app is a
 Proof of Concept (POC) showing how 
