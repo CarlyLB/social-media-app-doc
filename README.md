@@ -4,8 +4,7 @@
 - [Architecture](#architecture)
 
 
-<div id='introduction'/>
-# Introduction
+<h1 id='introduction'>Introduction</h1>
 
 The [Social Media Explorer](http://social-ui.au-syd.mybluemix.net) app is a
 Proof of Concept (POC) showing how 
@@ -15,8 +14,8 @@ It demonstrates how the Bluemix ecosystem seemlessly integrates
 with best of breed technologies to deliver a **bird-view** snapshot of the social media sentiment
 and to allow for **drill-down** exploration and alaysis. 
 
-<div id='architecture'/>
-# Architecture
+
+<h1 id='architecture'>Architecture</h1>
 
 The following diagram shows a bird view of the architecture:
 
