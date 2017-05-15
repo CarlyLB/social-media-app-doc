@@ -11,7 +11,7 @@ Proof of Concept (POC) showing how
 [IBM Bluemix](https://www.ibm.com/cloud-computing/bluemix/what-is-bluemix) and
 [Watson](https://www.ibm.com/analytics/watson-analytics/us-en/) can be used for social media analytics.
 It demonstrates how the Bluemix ecosystem seemlessly integrates
-with best of breed technologies to deliver a **bird-view** snapshot of the social media sentiment
+with best of breed technologies to deliver a **birds-eye-view** snapshot of the social media sentiment
 and to allow for **drill-down** exploration and alaysis.
 
 
@@ -23,7 +23,7 @@ The following diagram shows a bird view of the architecture:
 
 Social media data is ingested via [Synthesio](http://www.synthesio.com/).
 We use Twitter, but Synthesio can easily incorporate various other sources like Facebook as well.
-If customer data is needed, we can also feed it via other on-premises systems like 
+If customer data is needed, we can also feed it via other on-premises systems like
 [Neteeza](https://www-01.ibm.com/software/data/netezza/).
 
 Social media and customer data is fed into a [Node-RED](https://nodered.org/) workflow, which
