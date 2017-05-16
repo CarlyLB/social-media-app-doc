@@ -12,7 +12,7 @@ Proof of Concept (POC) showing how
 [Watson](https://www.ibm.com/analytics/watson-analytics/us-en/) can be used for social media analytics.
 It demonstrates how the Bluemix ecosystem seemlessly integrates
 with best of breed technologies to deliver a **birds-eye-view** snapshot of the social media sentiment
-and to allow for **drill-down** exploration and alaysis.
+and to allow for **drill-down** exploration and analysis.
 
 
 <h1 id='architecture'>Architecture</h1>
