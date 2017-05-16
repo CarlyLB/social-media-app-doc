@@ -15,6 +15,8 @@ with best of breed technologies to deliver a **birds-eye-view** snapshot of the 
 and to allow for **drill-down** exploration and analysis.
 
 
+![Screencast](https://github.com/nikolay-g/social-media-app-doc/raw/master/img/DemoScreencast.gif)
+
 <h1 id='architecture'>Architecture</h1>
 
 The following diagram shows a bird view of the architecture:
