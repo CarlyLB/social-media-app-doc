@@ -15,7 +15,7 @@ with best of breed technologies to deliver a **birds-eye-view** snapshot of the 
 and to allow for **drill-down** exploration and analysis.
 
 
-![Screencast](https://github.com/nikolay-g/social-media-app-doc/raw/master/img/DemoScreencast.gif)
+![Screencast](https://github.com/nikolay-g/social-media-app-doc/raw/master/img/DemoScreencast.gif | width=150)
 
 <h1 id='architecture'>Architecture</h1>
 
