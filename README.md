@@ -14,8 +14,8 @@ It demonstrates how the Bluemix ecosystem seemlessly integrates
 with best of breed technologies to deliver a **birds-eye-view** snapshot of the social media sentiment
 and to allow for **drill-down** exploration and analysis.
 
+<img src="https://github.com/nikolay-g/social-media-app-doc/raw/master/img/DemoScreencast.gif" width="150">
 
-![](https://github.com/nikolay-g/social-media-app-doc/raw/master/img/DemoScreencast.gif | width=150)
 
 <h1 id='architecture'>Architecture</h1>
 
